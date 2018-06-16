@@ -15,7 +15,7 @@ class App extends Component {
   itScored = (id) => {
     if (this.state.clicked.includes(id)) {
       //you clicked this one before
-      alert("Oops you clicked this one before....sorry charlie");
+      alert("You've already clicked on that one!!! Start over!");
       this.setState({score:0});
       this.setState({clicked:[]});
     } else {
@@ -32,7 +32,7 @@ class App extends Component {
       }
       //did user win?
       if (nextScore === 11) {
-        alert("Winner Winner Chicken Dinner");
+        alert("Good job!!! You Win!!!");
         this.setState({score:0});
         this.setState({clicked:[]});
 

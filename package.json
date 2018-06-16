@@ -1,7 +1,7 @@
 {
   "name": "clicky",
   "version": "0.1.0",
-  "homepage": "https://pcheno.github.io/clicky",
+  "homepage": "https://danielhayespco.github.io/clicky",
   "private": true,
   "dependencies": {
     "react": "^16.4.0",
