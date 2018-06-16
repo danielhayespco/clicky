@@ -2,57 +2,57 @@
     {
         "id": "01",
         "name": "Mom",
-        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/mom.png"
+        "src":  "https://raw.githubusercontent.com/danielhayespco/clicky/master/public/assets%3Aimages/mom.png"
     },
     {
         "id": "02",
         "name": "Scruffy",
-        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/scruffy.png"
+        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/scruffy.png?raw=true"
     },
     {
         "id": "03",
         "name": "Zoidberg",
-        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/zoidberg.png"
+        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/zoidberg.png?raw=true"
     },
     {
         "id": "04",
         "name": "Amy",
-        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/amy.png"
+        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/amy.png?raw=true"
     },
     {
         "id": "05",
         "name": "Nibbler",
-        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/nibbler.png"
+        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/nibbler.png?raw=true"
     },
     {
         "id": "06",
         "name": "Hermes",
-        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/hermes.png"
+        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/hermes.png?raw=true"
     },
     {
         "id": "07",
         "name": "Zapp",
-        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/zapp.png"
+        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/zapp.png?raw=true"
     },
     {
         "id": "08",
         "name": "Kif",
-        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/kif.png"
+        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/kif.png?raw=true"
     },
     {
         "id": "09",
         "name": "Fry",
-        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/fry.png"
+        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/fry.png?raw=true"
     },
     {
         "id": "10",
         "name": "Bender",
-        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/bender.png"
+        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/bender.png?raw=true"
     },
     {
         "id": "11",
         "name": "Leela",
-        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/leela.png"
+        "src":  "https://github.com/danielhayespco/clicky/blob/master/public/assets:images/leela.png?raw=true"
     }
 
 ]
