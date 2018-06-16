@@ -29,7 +29,7 @@ render() {
   return (
     <div className="main"> 
     <div className="container-fluid">
-      <div className="jumbotron navbar-brand ">Click on Morty's friends, but only once </div>
+      <div className="jumbotron navbar-brand ">Click on as many of Fry's friends as you can, but only once per friend! </div>
       <div className="container-fluid friend-box"> 
       {friendArray.map(image =>
           <Friend
